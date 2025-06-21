@@ -22,7 +22,7 @@ print(type(y))        # <class 'float'>
 print(type(z))        # <class 'str'>
 print(type(is_active))# <class 'bool'>
 
-# 6. Basic Arithmetic
+# 5. Basic Arithmetic
 a = 10
 b = 3
 print("Addition:", a + b)
@@ -31,7 +31,7 @@ print("Multiplication:", a * b)
 print("Division:", a / b)
 print("Modulus:", a % b)
 
-# 8. Comments
+# 6. Comments
 # This is a single-line comment
 """
 This is a
